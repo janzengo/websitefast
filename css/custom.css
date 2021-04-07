@@ -1,0 +1,15 @@
+.promotional_vid {
+	position: relative;
+    min-width: 100%;
+	max-height: 50%;
+    overflow: hidden;
+    z-index: 1;
+}
+.image1 {
+	object-fit: fill;
+	width: 100%;
+}
+.nav-locator h2{
+	margin-left: 5%;
+	font-family: inherit;
+}
